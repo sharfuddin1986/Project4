@@ -19,5 +19,7 @@ deployment without affecting your database.
 # Highlights:
 
 Launch a DB instance in Amazon RDS
+
 Create an Elastic Beanstalk Environment
+
 Configure Security Groups and Scaling
